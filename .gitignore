@@ -1,0 +1,34 @@
+# Arquivos de compilação
+bin/
+target/
+
+# Arquivos de configuração específicos do IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs e arquivos temporários
+*.log
+*.swp
+
+# Arquivos gerados durante a execução
+*.class
+
+# Dependências e bibliotecas externas (depende do gerenciador de dependências, como Maven ou Gradle)
+/lib/
+/libs/
+
+# Arquivos de build
+build/
+
+# Arquivos de documentação gerados
+/docs/
+
+# Arquivos de análise estática de código
+/analysis/
+
+# Arquivos de cache e arquivos temporários de compilação
+/cache/
+/out/
+
